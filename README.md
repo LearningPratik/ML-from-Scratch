@@ -2,4 +2,4 @@
 Implementing Machine learning algorithms from scratch for better understanding
 
 # Model summary 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/04f5f711-03e2-42d0-9cda-f6aa3b1b58f5)
